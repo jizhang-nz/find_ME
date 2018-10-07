@@ -1,5 +1,5 @@
 # Find ME (Find Mobile Element)
-Find ME is a program that could be used to find out if a Mobile Element (ME) is present in whole-genome sequences of a bacterial isolate.
+Find ME is a program that could be used to find out if a Mobile Element (ME) is present in the whole-genome sequences of bacterial isolates.
 
 ## Motivation
 Mobile Elements (MEs) such as prophage, plasmid and genomic island are common in bacterial whole-genome sequences. A tool is needed to detect if a Mobile Element (ME) is present in a fragmented whole-genome sequences (draft genomes).
